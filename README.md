@@ -16,7 +16,7 @@ https://weather-5qgduu5vv-harsh1519s-projects.vercel.app/
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Weather_app.git
+    git clone https://github.com/harsh1519/Weather_app.git
     cd weather-app
     ```
 
