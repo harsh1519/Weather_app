@@ -11,4 +11,4 @@ A simple weather application built using React JS and the OpenWeather API. Users
 https://weather-5qgduu5vv-harsh1519s-projects.vercel.app/
 
 ## Screenshots
-![Uploading Weather_app.PNG…]()
+![Weather_app](https://github.com/harsh1519/Weather_app/assets/98206466/3b47230e-c9d2-4cdc-bdfd-9849dcc31e54)
