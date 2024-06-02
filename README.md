@@ -16,7 +16,7 @@ https://weather-5qgduu5vv-harsh1519s-projects.vercel.app/
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/yourusername/Weather_app.git
     cd weather-app
     ```
 
@@ -34,7 +34,6 @@ https://weather-5qgduu5vv-harsh1519s-projects.vercel.app/
     ```bash
     npm start
     ```
-
 5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
